@@ -1,0 +1,23 @@
+{
+  "id": "ann_001",
+  "type": "maintenance",
+  "popup": true,
+  "maintenance": {
+    "start_at": "2026-06-01T00:00:00+08:00",
+    "end_at":   "2026-06-02T09:00:00+08:00"
+  },
+  "i18n": {
+    "zh-CN": {
+      "title":   "服务器维护通知",
+      "content": "系统将于 2026年6月1日 00:00 至 6月2日 09:00 进行维护，期间服务暂停，请提前做好安排。"
+    },
+    "en-US": {
+      "title":   "Scheduled Maintenance",
+      "content": "The service will be under maintenance from Jun 1, 2026 00:00 to Jun 2, 2026 09:00 (UTC+8). Service will be unavailable during this period."
+    },
+    "ja-JP": {
+      "title":   "サーバーメンテナンスのお知らせ",
+      "content": "2026年6月1日 00:00〜6月2日 09:00（UTC+8）にメンテナンスを実施します。"
+    }
+  }
+}
